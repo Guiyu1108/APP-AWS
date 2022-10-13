@@ -39,34 +39,31 @@ In the folder /lambda https://github.com/Guiyu1108/APP-AWS/blob/main/lambda
 1. Login Page
    ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/login.png?raw=true)
 
-2. Home Page
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Home.png?raw=true)
-
-3. Edit Personal Information
+2. Edit Personal Information
    ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Edit%20Personal%20Info.png?raw=true)
 
-4. Edit Party Information
+3. Edit Party Information
    ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/edit%20party%20information.png?raw=true)
 
-5. Party Details Page (Host)
+4. Party Details Page (Host)
    ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Party%20detail%20host.png?raw=true)
 
-6. Party Details Page (Guest)
+5. Party Details Page (Guest)
    ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/party%20detail%20guest.png?raw=true)
 
-7. Rate
+6. Rate
    ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Rate.png?raw=true)
 
-8. Discover Page
+7. Discover Page
    ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Discover.png?raw=true)
 
-9. Search Party
+8. Search Party
    ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Search.png?raw=true)
 
-10. Follow / Unfollow User
+9. Follow / Unfollow User
     ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/follow.png?raw=true)
 
-11. See host / guest ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/options.png?raw=true)
+10. See host / guest ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/options.png?raw=true)
 
 
 
