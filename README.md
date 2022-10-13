@@ -8,38 +8,7 @@ Learning the AWS online and develop a Web APP based on the AWS tech skills.
 ### Project S3 Link: https://tinyurl.com/MiyaLIUAPP
 
 ### Project Lambda Functions: 
-
-1. Login Page
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/login.png?raw=true)
-
-2. Home Page
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/Home.png?raw=true)
-
-3. Edit Personal Information
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/Edit%20Personal%20Info.png?raw=true)
-
-4. Edit Party Information
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/edit%20party%20information.png?raw=true)
-
-5. Party Details Page (Host)
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/Party%20detail%20host.png?raw=true)
-
-6. Party Details Page (Guest)
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/party%20detail%20guest.png?raw=true)
-
-7. Rate
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/Rate.png?raw=true)
-
-8. Discover Page
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/Discover.png?raw=true)
-
-9. Search Party
-   ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/Search.png?raw=true)
-
-10. Follow / Unfollow User
-    ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/follow.png?raw=true)
-
-11. See host / guest ![](https://github.com/Guiyu1108/APP-AWS/blob/master/images/options.png?raw=true)
+In the folder /lambda https://github.com/Guiyu1108/APP-AWS/blob/main/lambda
 
 #### This app contains
 
@@ -66,6 +35,39 @@ Learning the AWS online and develop a Web APP based on the AWS tech skills.
 11. See Host / Guest Party
 
 #### Some Screen Shots:
+
+1. Login Page
+   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/login.png?raw=true)
+
+2. Home Page
+   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Home.png?raw=true)
+
+3. Edit Personal Information
+   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Edit%20Personal%20Info.png?raw=true)
+
+4. Edit Party Information
+   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/edit%20party%20information.png?raw=true)
+
+5. Party Details Page (Host)
+   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Party%20detail%20host.png?raw=true)
+
+6. Party Details Page (Guest)
+   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/party%20detail%20guest.png?raw=true)
+
+7. Rate
+   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Rate.png?raw=true)
+
+8. Discover Page
+   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Discover.png?raw=true)
+
+9. Search Party
+   ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/Search.png?raw=true)
+
+10. Follow / Unfollow User
+    ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/follow.png?raw=true)
+
+11. See host / guest ![](https://github.com/Guiyu1108/APP-AWS/blob/main/images/options.png?raw=true)
+
 
 
 
